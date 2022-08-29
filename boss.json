@@ -1,0 +1,9 @@
+{
+	"name": "DEB an Event Bus framework for Delphi",
+	"description": "Delphi Event Bus (for short DEB) is a publish/subscribe Event Bus framework for the Delphi platform.",
+	"version": "2.1.0",
+	"homepage": "https://github.com/spinettaro/delphi-event-bus",
+	"mainsrc": "source",
+	"projects": [],
+	"dependencies": {}
+}
